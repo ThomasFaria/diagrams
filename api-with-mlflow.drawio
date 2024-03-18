@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T13:57:04.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.6" etag="437tbEVB6DJ827mYB7-2" type="device">
-  <diagram name="Page-2" id="Wj8LCU7dcGiJ2fnWEP-0">
-    <mxGraphModel dx="1666" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-03-18T14:05:08.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="og6yDl3-fy4fxUQNcvxe" version="24.0.7" type="github">
+  <diagram name="Page-1" id="Wj8LCU7dcGiJ2fnWEP-0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="7QSLF3XgZuyoWoCwqqrC-16" value="&lt;div&gt;Logging &amp;amp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Versioning&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontFamily=Comic Sans MS;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="630" y="480" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bbm7WzemIftuP05_x5AX-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://min.io/resources/img/logo/MINIO_wordmark.png;" vertex="1" parent="1">
+        <mxCell id="Bbm7WzemIftuP05_x5AX-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://min.io/resources/img/logo/MINIO_wordmark.png;" parent="1" vertex="1">
           <mxGeometry x="542.64" y="140" width="132.6" height="20" as="geometry" />
         </mxCell>
       </root>
