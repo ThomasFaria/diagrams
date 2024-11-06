@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="T7no24166q1Ip-7MRX3Q">
-    <mxGraphModel dx="4931" dy="597" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4532" dy="378" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5iqBXnzq-JTinNB5eCyv-2" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-2252.98" y="1120" width="104.21" height="170" as="geometry" />
+          <mxGeometry x="-2312.98" y="1120" width="104.21" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-70" value="" style="group" vertex="1" connectable="0" parent="5iqBXnzq-JTinNB5eCyv-2">
           <mxGeometry x="0.010000000000000009" width="104.21" height="170" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="8.969999999999999" y="120" width="86.27" height="17.62" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-89" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1398.72" y="1120" width="104.21" height="170" as="geometry" />
+          <mxGeometry x="-1359.72" y="1120" width="104.21" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-90" value="" style="group" vertex="1" connectable="0" parent="5iqBXnzq-JTinNB5eCyv-89">
           <mxGeometry x="0.010000000000000009" width="104.21" height="170" as="geometry" />
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-55" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1190.72" y="1149.9999999999998" width="111.29999999999995" height="134" as="geometry" />
+          <mxGeometry x="-1151.72" y="1149.9999999999998" width="111.29999999999995" height="134" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-102" value="" style="group" vertex="1" connectable="0" parent="5iqBXnzq-JTinNB5eCyv-55">
           <mxGeometry width="111.3" height="134" as="geometry" />
@@ -171,17 +171,17 @@
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-104" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5iqBXnzq-JTinNB5eCyv-91" target="5iqBXnzq-JTinNB5eCyv-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1808.72" y="1180" as="sourcePoint" />
-            <mxPoint x="-1218.72" y="1206" as="targetPoint" />
+            <mxPoint x="-1769.72" y="1180" as="sourcePoint" />
+            <mxPoint x="-1179.72" y="1206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-106" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Work+Sans&quot; face=&quot;Work Sans&quot;&gt;&lt;b&gt;Classifieur NAF 2025&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-1018.72" y="1175" width="120" height="60" as="geometry" />
+          <mxGeometry x="-979.72" y="1175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-107" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5iqBXnzq-JTinNB5eCyv-56" target="5iqBXnzq-JTinNB5eCyv-106">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1288.72" y="1150" as="sourcePoint" />
-            <mxPoint x="-1238.72" y="1100" as="targetPoint" />
+            <mxPoint x="-1249.72" y="1150" as="sourcePoint" />
+            <mxPoint x="-1199.72" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-108" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -202,7 +202,7 @@
         <mxCell id="5iqBXnzq-JTinNB5eCyv-113" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1819.7" y="1120.65" width="104.21" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="5iqBXnzq-JTinNB5eCyv-114" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="5iqBXnzq-JTinNB5eCyv-113">
+        <mxCell id="5iqBXnzq-JTinNB5eCyv-114" value="" style="group;fillColor=none;" vertex="1" connectable="0" parent="5iqBXnzq-JTinNB5eCyv-113">
           <mxGeometry width="104.21" height="170" as="geometry" />
         </mxCell>
         <mxCell id="5iqBXnzq-JTinNB5eCyv-115" value="&lt;font&gt;&lt;b&gt;Annotation manuelle&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;NAF 2025&lt;br&gt;&lt;/b&gt;&lt;div&gt;27k&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;" vertex="1" parent="5iqBXnzq-JTinNB5eCyv-114">
